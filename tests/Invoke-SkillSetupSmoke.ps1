@@ -160,6 +160,8 @@ try {
 
     Assert-True -Condition $failedAsExpected -Message 'Restore succeeded unexpectedly for a missing branch.'
     Assert-True -Condition (-not (Test-Path -LiteralPath (Join-Path $badSkillsRoot 'alpha-skill'))) -Message 'Failed restore should not register a junction.'
+    $global:LASTEXITCODE = 0
+    Write-Output 'PASS smoke: Skill Setup isolated workflow'
 } finally {
     if (Test-Path -LiteralPath $tempRoot) {
         $resolvedTempRoot = (Resolve-Path -LiteralPath $tempRoot).ProviderPath
