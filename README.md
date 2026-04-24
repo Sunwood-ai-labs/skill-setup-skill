@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/public/skill-setup-header.png" alt="Skill Setup banner showing Codex skills moving between two Windows PCs" width="1983" height="793">
+  <img src="docs/public/skill-setup-header.png" alt="Skill Setup banner showing Codex skills moving between two Windows PCs">
 </p>
 
 <p align="center">

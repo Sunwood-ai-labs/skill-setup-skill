@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/public/skill-setup-header.png" alt="2台のWindows PC間でCodexスキルを移行するSkill Setupのヘッダー画像" width="1983" height="793">
+  <img src="docs/public/skill-setup-header.png" alt="2台のWindows PC間でCodexスキルを移行するSkill Setupのヘッダー画像">
 </p>
 
 <p align="center">
