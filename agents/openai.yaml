@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Setup"
+  short_description: "Move the currently registered Codex skill set to another Windows PC."
+  default_prompt: "Use $skill-setup to export this PC's registered Codex skill set and restore the same git-backed skills on another Windows PC under D:\\Prj with junction registration."
